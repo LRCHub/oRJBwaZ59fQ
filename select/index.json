@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "ベノム",
+  "base_artist": "かいりきベア",
+  "createdAt": "2025-12-11T02:07:17.430373Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ベノム (MARETU Remix)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/01_ベノム_(MARETU_Remix)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ベノム -MARETU REMIX-",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/02_ベノム_-MARETU_REMIX-_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ベノム (feat. 缶缶)",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/03_ベノム_(feat._缶缶)_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/04_ベノム_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ベノム(feat. flower)",
+      "artist": "Kairiki Bear",
+      "has_synced": true,
+      "path": "select/05_ベノム(feat._flower)_Kairiki_Bear.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "かいりきベア; flower",
+      "has_synced": true,
+      "path": "select/06_ベノム_かいりきベア;_flower.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "WagakkiBand",
+      "has_synced": true,
+      "path": "select/07_ベノム_WagakkiBand.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "和楽器バンド",
+      "has_synced": true,
+      "path": "select/08_ベノム_和楽器バンド.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/09_ベノム_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/10_ベノム_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ベノム(feat. flower)",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/11_ベノム(feat._flower)_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ベノム (feat. 東雲絵名&暁山瑞希)",
+      "artist": "25時、ナイトコードで。",
+      "has_synced": true,
+      "path": "select/12_ベノム_(feat._東雲絵名&暁山瑞希)_25時、ナイトコードで。.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ベノム (Venom)",
+      "artist": "かいりきベア (Kairiki Bear) feat. v flower",
+      "has_synced": true,
+      "path": "select/13_ベノム_(Venom)_かいりきベア_(Kairiki_Bear)_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ベノム - MARETU Remix",
+      "artist": "Kairikibear",
+      "has_synced": true,
+      "path": "select/14_ベノム_-_MARETU_Remix_Kairikibear.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "かいりきベア feat. v flower",
+      "has_synced": true,
+      "path": "select/15_ベノム_かいりきベア_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ベノム (Venom)",
+      "artist": "かいりきベア feat. v flower",
+      "has_synced": true,
+      "path": "select/16_ベノム_(Venom)_かいりきベア_feat._v_flower.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ベノム (Venom)",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/17_ベノム_(Venom)_かいりきベア.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "ベノム (Venom) feat. v flower",
+      "artist": "かいりきベア",
+      "has_synced": true,
+      "path": "select/18_ベノム_(Venom)_feat._v_flower_かいりきベア.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "ベノム",
+      "artist": "かいりきベア feat. flower",
+      "has_synced": true,
+      "path": "select/19_ベノム_かいりきベア_feat._flower.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ベノム",
+      "artist": "かいりきベア",
+      "has_synced": false,
+      "path": "select/pl_01_ベノム_かいりきベア.txt"
+    }
+  ]
+}
